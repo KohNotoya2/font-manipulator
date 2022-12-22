@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: red;
+    box-shadow: 5px 6px 7px yellow;
+    font-family: cursive;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: green;
+    border-style: solid;
+    letter-spacing: 5px;
+}
+
+.copy_right_footer {
+    background-color: grey;
+    font-family: cursive;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 4;
+}
+
+.heading {
+    background-color: green;
+}
+
+canvas {
+    border: 2px solid rgb(96, 0, 128);
+    border-radius: 25px;
+    box-shadow: 3px 4px 10px rgb(0, 83, 128);
+}
